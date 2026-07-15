@@ -13,7 +13,7 @@ name = 'ilia'
 for name in name:
     print(name)
 
-for i in range(2, 1001, 2):
+for i in range(0, 1001, 2):
     print(i)
 
 for i in range(4, 501, 3):
