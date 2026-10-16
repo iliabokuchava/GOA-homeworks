@@ -9,7 +9,7 @@ print(food)
 variable = ["apple", "banana", "orange", "apple", "kiwi"]
 variable.insert(1, "grape")
 variable.pop(3)
-variable.insert
+variable.insert()
 variable.append("melon")
 print(variable.count("apple"))
 print(variable.index("banana"))
@@ -40,4 +40,5 @@ print(games)
 #count() - ფუნქციის დახმარებით ჩვენ შეგვიძლია დავითვალოთ მოცემული ელემენტი სიაში
 #index() - ფუნქციის დახმარებით ჩვენ შეგვიძლია კონკრეტული ელემენტის ინდექსის გაგება
 #def - ის დახმარებით ჩვენ შეგვიძლია ფუნქციების შეგმნა და ლოგიკების აწყობა
+
 
