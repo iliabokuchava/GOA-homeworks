@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+img{
+    border-radius: 15px;
+}
+p{
+    color: aliceblue;
+}
+h1, h3{
+    color: aliceblue;
+}
+li{
+    color:aquamarine
+}
+button{
+    background-color: aliceblue;
+    border: 2px solid green;
+}
